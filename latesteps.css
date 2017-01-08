@@ -1,0 +1,6 @@
+.closeart-eps{margin:0}
+.closeart-eps img{float:left;width:60px;height:60px;margin-top:0!important;margin-right:10px!important}
+.closeart-eps li{clear:both;height:60px;line-height:1.3em!important;list-style-type:none}
+.closeart-eps li a{list-style:none;color:#555;font-weight:600;font-size:14px}
+.closeart-eps li a:hover,.closeart-eps li:hover a{color:#FF9035!important}
+.closeart-eps li .showdates{display:inline-block;font-size:10px;font-weight:normal;color:#AAA}
