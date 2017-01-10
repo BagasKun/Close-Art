@@ -1,0 +1,16 @@
+﻿/* -------------
+Theme Name: Art Stream 1 Premium Blogger Template (Orange) - recentseries stylesheet
+Theme URI: https://www.facebook.com/closeart.id/
+Theme Version: 1.0
+Author: Close Art
+Author URI: https://www.facebook.com/groups/closeart.id/
+License: This premium 'Art Stream 1 Premium Blogger Template' is licensed under the Creative Commons - Attribution 4.0 International License, which permits both personal and commercial use.
+However, to satisfy the 'attribution' clause of the license, you are required to keep the footer links intact which provides due credit to its authors. For more specific details about the license, you may visit the URL below: https://creativecommons.org/licenses/by/4.0/
+--------------- */
+.featanim{margin:0 -5px;padding:0;list-style:outside none none;display:block}
+.featanim li{float:left;display:inline-block;position:relative;width:25%;max-height:250px;padding:5.9px;overflow:hidden}
+.featanim li:after{background-image:-webkit-linear-gradient(bottom,rgba(0,0,0,.0001) 0,rgba(0,0,0,.8) 100%);background-image:-o-linear-gradient(bottom,rgba(0,0,0,.0001) 0,rgba(0,0,0,.8) 100%);background-image:-webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,.8)));background-image:linear-gradient(to bottom,rgba(0,0,0,.0001) 0,rgba(0,0,0,.8) 100%);content:&quot;&quot;;height:55px;width:94%;position:absolute;bottom:9px;left:5px}
+.featanim li .thumblinker{display:block;line-height:0}
+a.feattitle{position:absolute;bottom:10px;padding:3px 7px;margin:4px 0 0;line-height:1.2;width:90%;z-index:10;color:#FFF!important;font-size:15px;font-weight:500;text-align:left;text-shadow:0 1px 2px rgba(0,0,0,.6)}
+.featanim li:after{background-image:-webkit-linear-gradient(bottom,rgba(0,0,0,.0001) 0,rgba(0,0,0,.8) 100%);background-image:-o-linear-gradient(bottom,rgba(0,0,0,.0001) 0,rgba(0,0,0,.8) 100%);background-image:-webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,.8)));background-image:linear-gradient(to bottom,rgba(0,0,0,.0001) 0,rgba(0,0,0,.8) 100%);content:&quot;&quot;;height:55px;width:95%;position:absolute;bottom:6px;left:5px}
+.rdsnippet{display:none}
